@@ -1,0 +1,1 @@
+select * from high_scores where ("Guesses" < 10) order by ("End Value");
